@@ -100,7 +100,7 @@ export const NavBar = () => {
               </div>
 
               <a
-                href="https://drive.google.com/file/d/1FQ3Tos0j2s1X7fAFflR7bFOyG3hE_bfX/view"
+                href="https://drive.google.com/drive/folders/1ZKHIm3yz3P8Rd-g1IX_UuUZvWvcdSr8t"
                 target="_blank"
                 rel="noopener noreferrer"
                 download="Aditya_Vishwakarma_Resume.pdf"

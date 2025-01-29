@@ -94,13 +94,13 @@ export const NavBar = () => {
                 >
                   <img src={navIcon3} alt="" />
                 </a>
-                <a href="mailto:adityvishwakarma2004@gmail.com" target="_blank">
+                <a href="https://mail.google.com/mail/u/0/?fs=1&to=adityvishwakarma2004@gmail.com&tf=cm" target="_blank">
                   <img src={navIcon4} alt="" />
                 </a>
               </div>
 
               <a
-                href="https://drive.google.com/drive/folders/1ZKHIm3yz3P8Rd-g1IX_UuUZvWvcdSr8t"
+                href="https://drive.google.com/file/d/1nlTR81IUQGHgdRNCDzjYvGFTCdBESBRX/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 download="Aditya_Vishwakarma_Resume.pdf"
